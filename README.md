@@ -1,1 +1,4 @@
-# zzz-gas-convert-main
+## Installation
+```bash
+npm zzz-gas-convert
+```
